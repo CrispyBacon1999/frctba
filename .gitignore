@@ -1,0 +1,10 @@
+
+build/
+
+dist/
+
+doc_gen/
+
+docs/
+
+*.bat
